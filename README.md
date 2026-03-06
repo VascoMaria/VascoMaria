@@ -63,20 +63,6 @@
 
 ## 📌 Featured Projects
 
-### 📦 Stock Management System
-**Full-stack application** developed with **Java, Spring Boot, and MongoDB**, featuring a web frontend built with **HTML, CSS, and JavaScript**.
-
-Key features:
-- Product and client management
-- Low-stock email alerts
-- Product history tracking
-- Financial dashboard with charts
-- Client ranking (Top buyers)
-
-🔗 Repository: https://github.com/VascoMaria/stock-management
-
----
-
 ### 🔐 Computer Vision Security System (Master’s Thesis)
 Master’s thesis project developed during a **professional internship**, later **applied in a real company environment**.
 
@@ -88,6 +74,20 @@ Key features:
 - Security-focused architecture
 
 🔗 Repository: https://github.com/VascoMaria/cv-security-system-self-service-machines
+
+---
+
+### 📦 Stock Management System
+**Full-stack application** developed with **Java, Spring Boot, and MongoDB**, featuring a web frontend built with **HTML, CSS, and JavaScript**.
+
+Key features:
+- Product and client management
+- Low-stock email alerts
+- Product history tracking
+- Financial dashboard with charts
+- Client ranking (Top buyers)
+
+🔗 Repository: https://github.com/VascoMaria/stock-management
 
 ---
 
